@@ -2,6 +2,17 @@
 ### Introduction to Linux Environment
 ### Advanced Linux commands
 ### Introduction to python : Python, Jupyter notebook, Anaconda
+  - installing anaconda3_64bit(in windows), 
+  - open start anacoda navigator, use jupyter notebook
+  - go for new select python ker
+  - python code is usually stored in text files with the file ending ".py" eg. my_python_program.py
+  - click icon of + 
+  - goto Cell and markdown (it will not be assigned as code)
+  - execute Run button
+  - 
+  - 
+
+
 ### Variables and Datatypes:- Integer, Float, String, Bool
 ### Data Structures- 1, List, Dictionary, Tuple
 ### Data Structures-2 List, Dictionary, Tuple
