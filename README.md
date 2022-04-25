@@ -6,14 +6,14 @@
   - open start anacoda navigator, use jupyter notebook
   - go for new select python ker
   - python code is usually stored in text files with the file ending ".py" eg. my_python_program.py
-  - click icon of + 
-  - goto Cell and markdown (it will not be assigned as code)
-  - execute Run button
-  - 
-  - 
-
-
+  - click icon of + add a cell below with the existing cell (short cut press a, b it will add the cell )
+  - The heading Markdown goto Cell and markdown (it will not be assigned as code)
+  - execute Run button (Shift+en-runds the current cell and selects belows; cntrl+enter run the current )
+  
 ### Variables and Datatypes:- Integer, Float, String, Bool
+  - Data types and variables: 
+      - 1 (integer); 1.0 (float), Booleans (True or False), complex (2.2j), string "abcdef", noneType 'None'
+      - 
 ### Data Structures- 1, List, Dictionary, Tuple
 ### Data Structures-2 List, Dictionary, Tuple
 ### Loops :- For loop While loop
